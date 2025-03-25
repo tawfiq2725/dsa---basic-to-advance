@@ -1,0 +1,9 @@
+{
+  "workbench.editor.autoLockGroups": {
+    "default": true,
+    "workbench.editorinputs.searchEditorInput": true
+  },
+  "workbench.editor.centeredLayoutFixedWidth": true,
+  "workbench.editor.historyBasedLanguageDetection": false,
+  "git.ignoreLimitWarning": true
+}
